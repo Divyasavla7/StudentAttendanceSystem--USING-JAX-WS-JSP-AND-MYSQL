@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/web/index.html</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/src/java/services/AttendanceService.java</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/web/markAttendance.jsp</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/src/java/services/MarkAttendanceServlet.java</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/src/java/services/RegisterServlet.java</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/src/java/services/ReportService.java</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/src/java/services/StudentService.java</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/src/java/services/ViewReportServlet.java</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/web/register.jsp</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/sdivy/OneDrive/Documents/NetBeansProjects/StudentAttendanceSystem/web/viewReport.jsp</file>
+        </group>
+    </open-files>
+</project-private>
